@@ -1,1 +1,1 @@
-# discrete-sstructue-18055
+# discrete-structue-18055
